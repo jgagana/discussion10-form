@@ -24,13 +24,14 @@ input[type="text"], input[type="number"] {
   width: 80%;
   padding: 8px;
   margin-bottom: 15px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
+  border: 10px solid #ccc;
+  border-radius: 30px;
 }
 
 input[type="submit"] {
-  background-color: #FFCB05; 
+  background-color: green; 
   color: #00274C; 
   padding: 10px;
   width: 100%;
+  
 }
